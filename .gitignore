@@ -16,6 +16,7 @@ docs/.doctrees
 docs/.buildinfo
 docs/_sources
 docds/objects.inv
+.pyodide-xbuildenv/
 # docs
 
 # examples/cpp/bin
